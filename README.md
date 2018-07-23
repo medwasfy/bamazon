@@ -21,10 +21,10 @@ Follow the prompts to view all departments and their overhead and sales figures,
 # Screeshots Illustating the App Function
 
 ![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/customer-1.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/customer-2.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-action.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-sales.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-inventory.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-low-inventory.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-add-inventory.png)
-![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-add-new-product.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/customer-2.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/manager-view-action.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/manager-view-sales.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/manager-view-inventory.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/manager-view-low-inventory.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/manager-add-inventory.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/manager-add-new-product.png)
