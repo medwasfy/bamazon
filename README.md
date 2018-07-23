@@ -1,5 +1,4 @@
 # bamazon
-<<<<<<< HEAD
 
 Storefront app with functionality for customers to buy products, managers to view products, add inventory and view total profits.
 
@@ -21,13 +20,11 @@ Follow the prompts to view all departments and their overhead and sales figures,
 
 # Screeshots Illustating the App Function
 
-![Alt text](./screenshots/customer-1.png)
-![Alt text](./screenshots/customer-2.png)
-![Alt text](./screenshots/manager-view-action.png)
-![Alt text](./screenshots/manager-view-sales.png)
-![Alt text](./screenshots/manager-view-inventory.png)
-![Alt text](./screenshots/manager-view-low-inventory.png)
-![Alt text](./screenshots/manager-add-inventory.png)
-![Alt text](./screenshots/manager-add-new-product.png)
-=======
->>>>>>> d25301b818d9d0a4f134bdb4660f1a62db9e92e9
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/sceenshots/customer-1.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/customer-2.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-action.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-sales.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-inventory.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-view-low-inventory.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-add-inventory.png)
+![Alt text](https://github.com/medwasfy/bamazon/blob/master/screenshots/manager-add-new-product.png)
