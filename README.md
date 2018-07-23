@@ -1,4 +1,5 @@
 # bamazon
+<<<<<<< HEAD
 
 Storefront app with functionality for customers to buy products, managers to view products, add inventory and view total profits.
 
@@ -28,3 +29,5 @@ Follow the prompts to view all departments and their overhead and sales figures,
 ![Alt text](./screenshots/manager-view-low-inventory.png)
 ![Alt text](./screenshots/manager-add-inventory.png)
 ![Alt text](./screenshots/manager-add-new-product.png)
+=======
+>>>>>>> d25301b818d9d0a4f134bdb4660f1a62db9e92e9
